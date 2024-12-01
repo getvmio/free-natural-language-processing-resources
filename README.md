@@ -1,5 +1,9 @@
 # Natural Language Processing Free Resources
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 🗣️ Unlock the power of language with our NLP Workshop repository! Featuring a comprehensive collection of free courses and resources on Natural Language Processing, along with an interactive online environment. Ideal for linguists, developers, and AI enthusiasts exploring the intersection of language and technology.
 
 ## Resources
